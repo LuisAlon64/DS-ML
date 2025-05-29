@@ -2,7 +2,7 @@ import pandas as pd
 
 data = {
     "Producto": ["A", "B", "C", "D"],
-    "Ventas": [1000, 800, 1200, 900],
+    "Ventas": [1000, 700, 1200, 900],
     "Costos": [800, 900, 1000, 950]
 }
 df = pd.DataFrame(data)
